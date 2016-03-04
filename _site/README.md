@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### 我的博客
 
 地址：[http://yansu.org](http://yansu.org)
@@ -16,3 +17,7 @@
 - 三栏布局（master分支，基于[3-Jekyll](https://github.com/P233/3-Jekyll)）
 - 三栏布局 (bootstrap-based分支，基于Bootstrap)
 - 单栏布局（first-ui分支，基于Bootstrap）
+=======
+# qiaojiao.github.io
+勤奋的蜗牛
+>>>>>>> f7a063693982cf90aed2a65e9827b482f0c7ca94

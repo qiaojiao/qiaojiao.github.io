@@ -1,6 +1,6 @@
 # Site settings
 title: 小杰的博客
-email: qcdcool@gmail.com
+email: 18811322986@163.com
 description: > # this means to ignore newlines until "baseurl:"
   小杰的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -12,20 +12,20 @@ rss_url: /pages/feed.xml
 filter: 'category'
 
 # Social account
-weibo: qcdcool
-github: qcdcool
+weibo: qiaojiao
+github: qiaojiao
 
 # avatar头像及Favicon
-avatar: https://avatars3.githubusercontent.com/u/2689215?v=3
+avatar: https://avatars2.githubusercontent.com/u/16477750?v=3&s=460
 
 # disqus 设置
 disqus:
-  shortname: qcdcool-zh
+  shortname: qiaojiao-zh
 
 # google analytics 设置
 ga:
   id: UA-54767140-1
-  url: blog.qcdcool.com
+  url: qiaojiao.github.io
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
