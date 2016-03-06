@@ -1,3 +1,13 @@
+---
+layout: post
+title: python学习之语法
+category: 技术
+tags: python
+keywords: python
+description: 
+---
+
+
 ## Python学习之语法 ##
 
 ## 数据类型
