@@ -1,20 +1,11 @@
----
-layout: post
-title: python学习之语法
-category: 技术
-tags: python
-keywords: python
-description: 
----
-
-
+## Python学习之语法 ##
 
 ## 数据类型
 
 ### 1.整数(int)
 Python可以处理任意大小的整数,在程序中的表示方法和数学上的写法一样.
 
-            `1, 100, -8080, 0`
+`1, 100, -8080, 0`
 
 ### 2.浮点数(float)
 浮点数就是小数
@@ -30,7 +21,7 @@ Python可以处理任意大小的整数,在程序中的表示方法和数学上�
 
 - 单引号中不能包含单引号;双引号不能包含双引号
 
-		print("I'm ok")
+            print("I'm ok")
 		    I'm ok
 - 单双引号交叉使用(单引号中使用双引号；双引号中使用单引号)
 
@@ -38,7 +29,7 @@ Python可以处理任意大小的整数,在程序中的表示方法和数学上�
 		    I"m ok
 >3.2 如果字符串内部即包含‘又包含“,可以用转义字符\来标识
 
-       print 'It\'s a dog'  It's a dog;
+        print 'It\'s a dog'  It's a dog;
         print 'I\'m \"OK\"!' I'm "OK"!
 
 
