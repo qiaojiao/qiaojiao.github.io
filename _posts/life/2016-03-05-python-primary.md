@@ -6,7 +6,7 @@ tags: python
 keywords: python
 description: 
 ---
-##数据类型
+## 数据类型
 ### 1.整数(int)
 Python可以处理任意大小的整数,在程序中的表示方法和数学上的写法一样.
 eg: 1,100,-8080,0
