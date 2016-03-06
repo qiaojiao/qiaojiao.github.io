@@ -6,28 +6,34 @@ tags: python
 keywords: python
 description: 
 ---
+
+
 ## 数据类型
+
 ### 1.整数(int)
 Python可以处理任意大小的整数,在程序中的表示方法和数学上的写法一样.
-eg: 1,100,-8080,0
+
+`eg: 1,100,-8080,0`
 
 ### 2.浮点数(float)
 浮点数就是小数
-eg: 2.7788,3.277
 
-### 3.字符串(str)
-3.1 字符串是以单引号或者双引号括起来的任意文本
-eg: 'hello',"my python", "2+3"
+`eg: 2.7788,3.277`
+
+### 3.字符串(str):
+ 3.1 字符串是以单引号或者双引号括起来的任意文本
+ 
+    `eg: 'hello',"my python", "2+3"`
 
 注意：引号的使用与区别
         单引号中不能包含单引号;双引号不能包含双引号
-		eg: print("I'm ok")
-		    I'm ok
+		`eg: print("I'm ok")
+		    I'm ok`
         单双引号交叉使用(单引号中使用双引号；双引号中使用单引号)
-		eg: print ('I"m ok')
-		    I"m ok
+		`eg: print ('I"m ok')
+		    I"m ok`
 3.2	如果字符串内部即包含‘又包含“,可以用转义字符\来标识
-    eg:	print 'It\'s a dog'
+     eg:	print 'It\'s a dog'
         It's a dog	
         print 'I\'m \"OK\"!'
 		I'm "OK"!
