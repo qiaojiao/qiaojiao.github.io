@@ -1,20 +1,12 @@
----
-layout: post
-title: python学习之语法
-category: 技术
-tags: python
-keywords: python
-description: 
----
 
 
+## Python学习之语法 ##
 
 ## 数据类型
-
 ### 1.整数(int)
 Python可以处理任意大小的整数,在程序中的表示方法和数学上的写法一样.
 
-            `1, 100, -8080, 0`
+`1, 100, -8080, 0`
 
 ### 2.浮点数(float)
 浮点数就是小数
