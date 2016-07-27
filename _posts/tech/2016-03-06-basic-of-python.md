@@ -1,3 +1,11 @@
+---
+layout: post
+title: python基础学习
+category: tech
+tags: python
+keywords: python
+description: 
+---
 ## Python学习之语法 ##
 
 ## 数据类型
